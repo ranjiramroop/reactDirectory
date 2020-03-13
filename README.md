@@ -1,4 +1,18 @@
-#
+# Employee Directory - React
+
+## Overview
+This project allows the user to search their employees tht are stored in the database. 
+The application is broken into components to respond to the user's input and immediately will update the infromation displayed to the user.
+
+## Usage
+This employee directory allows you to search the entire employee list by their first and it will sort the employee alphabetically. 
+
+## Technology
+React.js
+React components
+State
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

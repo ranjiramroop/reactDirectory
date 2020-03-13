@@ -7,8 +7,8 @@ function SearchForm(props) {
         <h2>{props.searchtype} Search</h2>
         <p>
           {" "}
-          Search the directory! Enter someone's first or last name and it will
-          sort it alphabetically for you by that letter.
+          Search the directory! Enter someone's first name and it will sort it
+          alphabetically for you by that letter.
         </p>
       </div>
       <div className="card-body"></div>
