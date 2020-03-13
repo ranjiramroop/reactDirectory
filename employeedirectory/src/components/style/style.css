@@ -1,0 +1,15 @@
+.img {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.name {
+  color: blue;
+  font-size: x-large;
+  margin-right: 10px;
+}
+
+
