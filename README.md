@@ -1,7 +1,7 @@
 # Employee Directory - React
 
 ## Overview
-This project allows the user to search their employees tht are stored in the database. 
+This project allows the user to search their employees that are stored in the database. 
 The application is broken into components to respond to the user's input and immediately will update the infromation displayed to the user.
 
 ## Usage
